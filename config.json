@@ -1,0 +1,12 @@
+{
+  "token": "MTA5MTI3MjcyNTQ3NTExOTE0NQ.G2x2ef.eCo8LIY2P7YGtaUTyZ2sXd-wakvSlS_5bLcTJs",
+  "prefix": "mc!",
+  "serverAddress": "ov-2.lokaicloud.my.id:25566",
+  "serverPort": "25565",
+  "serverName": "Sky Dice SMP",
+  "updateInterval": "1min",
+  "showPlayerSample": true,
+  "debugMode": true,
+  "debugLvl": 1,
+  "pinUpdate": true
+}
